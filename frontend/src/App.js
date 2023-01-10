@@ -1,9 +1,9 @@
-import Counter from "./components/Counter";
+import  Footer  from "./components/Footer";
 
 const App = () => {
   return (
     <>
-      <Counter/>
+      <Footer/>
     </>
   );
 }
